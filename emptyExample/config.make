@@ -8,7 +8,7 @@
 #   The location of your root openFrameworks installation
 #       (default) OF_ROOT = ../../.. 
 ################################################################################
-# OF_ROOT = ../../..
+OF_ROOT = /C/CPPLibraries/openframeworks/msys64_0_11_0
 
 ################################################################################
 # PROJECT ROOT
