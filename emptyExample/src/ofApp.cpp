@@ -1,11 +1,8 @@
 #include "ofApp.h"
 #include <stdio.h>
-namespace bfs = boost::filesystem;
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    bfs::path p = bfs::path("C:\\CPPLibraries\\openframeworks\\msys64_0_11_0\\apps\\myApps\\emptyExample\\emptyExample.png");
-    theImage.load(p);
 }
 
 //--------------------------------------------------------------
