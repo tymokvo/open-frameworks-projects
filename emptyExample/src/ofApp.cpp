@@ -1,6 +1,4 @@
 #include "ofApp.h"
-#include <GLFW/glfw3.h>
-#include <functional>
 
 //--------------------------------------------------------------
 void ofApp::setup()
